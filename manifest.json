@@ -1,0 +1,12 @@
+{
+    "name": "工具箱(Tools)",
+    "version": "1.0",
+    "description": "极客版工具库",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "32": "images/logo.png"
+        }
+    }
+}
